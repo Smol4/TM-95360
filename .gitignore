@@ -1,0 +1,15 @@
+# Logi
+
+*.log
+npm-debug.log*
+
+#Srodowisko wirtualne
+venv/
+.env
+node_modules/
+
+#Systemowe
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
